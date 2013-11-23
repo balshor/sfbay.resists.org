@@ -1,2 +1,0 @@
-sfbay.resists.org
-=================
