@@ -1,0 +1,26 @@
+- name: Brentwood
+  url: /bwd/
+
+- name: East Bay
+  url: /eby/
+
+- name: Mid Peninsula
+  url: /pen/
+
+- name: Mountain View / GooglePlex
+  url: /mtv/
+
+- name: North Bay
+  url: /nby/
+
+- name: North Peninsula
+  url: /npn/
+
+- name: San Francisco
+  url: /sfc/
+
+- name: Santa Cruz
+  url: /scz/
+
+- name: South Bay
+  url: /sby/
