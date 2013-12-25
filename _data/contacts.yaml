@@ -22,9 +22,9 @@
   email: no1uknowfosho@gmail.com
   area: South Bay
 
-- agent: Phaseburn
+- agent: PhaseBurn
   email: phaseburn@phaseburn.net
-  area: SF
+  area: South Bay, Peninsula
 
 - agent: rukh
   email: rukh.ingress@gmail.com
@@ -37,3 +37,7 @@
 - agent: tbombadill
   email: tbombadill.ingress@gmail.com
   area: Peninsula, East Bay
+
+- agent: Techknow
+  email: ingressslug@gmail.com
+  area: Santa Cruz
