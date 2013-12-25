@@ -1,0 +1,39 @@
+- agent: 380
+  email: 380.ingress@gmail.com
+  area: North Bay
+
+- agent: balshor
+  email: balshor@resists.org
+  area: East Bay, Website
+
+- agent: dang
+  email: dang.ingress@gmail.com
+  area: East Bay
+
+- agent: ISBAR
+  email: southbay.resistance@gmail.com
+  area: South Bay
+
+- agent: JoanOfShark
+  email: joanofshark.ingress@gmail.com
+  area:  SF, East Bay
+
+- agent: NO1UKNOW
+  email: no1uknowfosho@gmail.com
+  area: South Bay
+
+- agent: Phaseburn
+  email: phaseburn@phaseburn.net
+  area: SF
+
+- agent: rukh
+  email: rukh.ingress@gmail.com
+  area: SF, East Bay
+
+- agent: SwerveSHARK
+  email: SwerveSHARK.ingress@gmail.com
+  area: SF
+
+- agent: tbombadill
+  email: tbombadill.ingress@gmail.com
+  area: Peninsula, East Bay
