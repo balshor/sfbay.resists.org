@@ -1,0 +1,21 @@
+h1 {
+  font-family: 'open sans', sans-serif;
+  font-size: 36px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 300;
+}
+
+h4 {
+  font-size: 13px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  height: 22px;
+  line-height: 22px;
+}
+
+body {
+  font: 400 13px/22px "Helvetica Neue","HelveticaNeue",Helvetica,sans-serif;
+  line-height: 22px;
+}
