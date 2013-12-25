@@ -16,9 +16,6 @@
 - name: North Bay
   url: /nby/
 
-- name: North Peninsula
-  url: /npn/
-
 - name: San Francisco
   url: /sfc/
 
