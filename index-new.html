@@ -17,16 +17,8 @@ title: SF Bay Area Resistance
   </p>
 
   <h2>List of SF Bay Area Resistance Communities</h2>
-  <ul>
-    <li><a href="/bwd/">Brentwood</a></li>
-    <li><a href="/eby/">East Bay</a></li>
-    <li><a href="/pen/">Mid Peninsula</a></li>
-    <li><a href="/mtv/">Mountain View / GooglePlex</a></li>
-    <li><a href="/nby/">North Bay</a></li>
-    <li><a href="/npn/">North Peninsula</a></li>     
-    <li><a href="/sfc/">San Francisco</a></li>
-    <li><a href="/scz/">Santa Cruz</a></li>
-    <li><a href="/sby/">South Bay</a></li>
+  <ul>{% for community in site.data.communities %}
+    <li><a href="{{ community.url }}">{{ community.name }}</a></li>{% endfor %}
   </ul>
   <p>(<a href="https://plus.google.com/113622914447638190429/posts/3qFBbLSfhnP">original source</a>)</p>
 
