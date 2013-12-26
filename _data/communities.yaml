@@ -7,14 +7,14 @@
 - name: East Contra Costa
   url: /ecc/
 
-- name: Peninsula
-  url: /pen/
-
 - name: Mountain View / GooglePlex
   url: /mtv/
 
 - name: North Bay
   url: /nby/
+
+- name: Peninsula
+  url: /pen/
 
 - name: San Francisco
   url: /sfc/
