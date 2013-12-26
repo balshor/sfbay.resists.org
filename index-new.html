@@ -12,13 +12,13 @@ title: San Francisco Bay Area Resistance
   <p>
     If you're new to the game, please check out these <a href="/help/">links for new players.</a>
   </p>
+
+  <h4>List of SF Bay Area Resistance Communities</h4>
   <p>
     This page serves as a directory and gateway to the various Bay Area Resistance communities.  These
     communities are private, so you'll need to request an invite to join.  The individual communities
     are responsible for managing the invitation and vetting process.
   </p>
-
-  <h4>List of SF Bay Area Resistance Communities</h4>
   <ul>{% for community in site.data.communities %}
     <li><a href="{{ community.url }}">{{ community.name }}</a></li>{% endfor %}
   </ul>
@@ -32,7 +32,7 @@ title: San Francisco Bay Area Resistance
   </p>
   <p>
     Several of our community coordinators have contact email addresses for players who prefer to connect
-    via email:
+    via email.
     <ul>{% for contact in site.data.contacts %}
       <li><a href="mailto:{{ contact.email }}">{{ contact.agent }}</a> ({{ contact.area }})</li>{% endfor %}
     </ul>
