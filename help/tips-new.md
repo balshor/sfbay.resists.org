@@ -39,7 +39,7 @@ header: Quick Tips for New Players
 * Because low level (1-4) XMPs are weak, most of your AP will come from deploying resonators and mods, linking, and
   fielding.  Once you start using L5 XMPs, destroying will start to become a steady source of AP.
 
-* All links and fields are worth the same AP.  Because links cannot cross, this means that it's woth more AP to make many
+* All links and fields are worth the same AP.  Because links cannot cross, this means that it's worth more AP to make many
   small fields than one huge one.
 
 * Although links cannot cross, you can make fields overlap.  If you want to use a link for more than two fields (one on
@@ -49,7 +49,8 @@ header: Quick Tips for New Players
 
 * There are two separate channels in the scanner: All COMM and Faction COMM.  The former is visible to all players, while
   the latter one is only visible to your team.  The Faction COMM is considered to be insecure as some players create a
-  second account on the opposite faction.  (Don't do this -- it's against the official Community Guidelines.)
+  second account on the opposite faction.  (Don't do this -- it's against the official [Community 
+  Guidelines](https://support.google.com/ingress/answer/2808360).)
 
 * You can [send a message to a specific player] (https://support.google.com/ingress/answer/3096792?hl=en&ref_topic=3261456)
   by including @name in your message.  These messages are still visible to either all players or to your entire faction,
