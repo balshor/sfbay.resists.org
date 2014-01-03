@@ -65,6 +65,18 @@ header: Quick Tips for New Players
   specific agents](https://support.google.com/ingress/answer/4382615?hl=en&ref_topic=3261456) if somebody is being
   particularly annoying.
 
+#### Teamwork
+
+* At low levels, you can play the game successfully solo.  As you level up, the number of resonators that each player
+  can place on a portal is limited.  You can place up to 8 L1 resonators, 4 each of L2-4 resonators, 2 each of L5-6
+  resonators, and only 1 each of L7-8 resonators.  So, building a level 7 portal will take 3 level 8 players or 8
+  level 7 players (or some mix of each).
+
+* High level teammates are often happy to share their low level gear.  Speak up if you're running low on resonators and
+  keys!  They can also perform "airstrikes" by quickly wiping out an enemy area with high level XMPs.  This will let you
+  concentrate on filling and fielding the area instead of trying to take it out with low level XMPs.  Both the [G+
+  communities](/) and local hangouts are great places to ask for this help.
+
 #### Other
 
 * Use the [official intel map](https://www.ingress.com/intel) for planning.
