@@ -25,6 +25,10 @@ header: Quick Tips for New Players
 * When you attack a portal, the portal will attack back, reducing your available XM.  Turrets increase the frequency of
   this happening.  Force AMPs increase the damage that a portal does to your XM.
 
+* Mods cannot be removed except by destruction by the other team.  Each player can only place two per portal.  Think
+  carefully about whether you want defensive mods (shields, turrets, and force amps), hacking mods (heat sinks and
+  multi-hacks), or almost-always-useless mods (link amps).
+
 * If you are at a portal under attack, try to keep deploying resonators as they get destroyed.  This is called 
   deploy-defending and is a great way to earn AP.
 
@@ -68,7 +72,7 @@ header: Quick Tips for New Players
 #### Teamwork
 
 * At low levels, you can play the game successfully solo.  As you level up, the number of resonators that each player
-  can place on a portal is limited.  You can place up to 8 L1 resonators, 4 each of L2-4 resonators, 2 each of L5-6
+  can place on a portal is limited.  You can place up to 8 L1-2 resonators, 4 each of L3-4 resonators, 2 each of L5-6
   resonators, and only 1 each of L7-8 resonators.  So, building a level 7 portal will take 3 level 8 players or 8
   level 7 players (or some mix of each).
 
