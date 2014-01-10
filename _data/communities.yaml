@@ -13,6 +13,9 @@
 - name: North Bay
   url: /nby/
 
+- name: North Peninsula
+  url: /npn/
+
 - name: Peninsula
   url: /pen/
 
