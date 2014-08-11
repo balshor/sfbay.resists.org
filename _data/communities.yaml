@@ -1,7 +1,7 @@
 - name: Brentwood
   url: /bwd/
 
-- name: East Bay
+- name: East Bay (All Levels)
   url: /eby/
 
 - name: East Contra Costa
@@ -21,6 +21,9 @@
 
 - name: San Francisco
   url: /sfc/
+
+- name: San Mateo County
+  url: /sanmateo/
 
 - name: Santa Cruz
   url: /scz/
