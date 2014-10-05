@@ -22,10 +22,6 @@
   email: southbay.resistance@gmail.com
   area: South Bay
 
-- agent: JoanOfShark
-  email: joanofshark.ingress@gmail.com
-  area:  SF, East Bay
-
 - agent: ICanGetYouAToe
   email: ICanGetYouAToe@resists.org
   area: South Bay
@@ -36,7 +32,7 @@
 
 - agent: rukh
   email: rukh.ingress@gmail.com
-  area: SF, East Bay
+  area: East Bay
 
 - agent: SwerveSHARK
   email: SwerveSHARK.ingress@gmail.com
