@@ -19,9 +19,6 @@
 - name: San Francisco
   url: /sfc/
 
-- name: San Mateo County
-  url: /sanmateo/
-
 - name: Santa Cruz
   url: /scz/
 
