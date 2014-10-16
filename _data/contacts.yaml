@@ -2,6 +2,10 @@
   email: 380@resists.org
   area: North Bay
 
+- agent: AccidentalGmr
+  email: accidentalgmr@resists.org
+  area: North Bay
+  
 - agent: Balshor
   email: balshor@resists.org
   area: East Bay, Website
@@ -31,7 +35,7 @@
   area: South Bay, Peninsula
 
 - agent: rukh
-  email: rukh.ingress@gmail.com
+  email: rukh@resists.org
   area: East Bay
 
 - agent: SwerveSHARK
