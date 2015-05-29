@@ -1,6 +1,7 @@
 - agent: 380
   email: 380@resists.org
   area: North Bay
+  form: http://bit.do/NBRes
 
 - agent: AccidentalGmr
   email: accidentalgmr@resists.org
@@ -31,10 +32,12 @@
 - agent: ICanGetYouAToe
   email: ICanGetYouAToe@resists.org
   area: South Bay
+  form: http://bit.ly/joinisbar
 
 - agent: PhaseBurn
   email: phaseburn@resists.org
   area: South Bay, Peninsula
+  form: http://bit.ly/joinisbar
 
 - agent: rukh
   email: rukh@resists.org
