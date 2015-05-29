@@ -5,6 +5,7 @@
 - agent: AccidentalGmr
   email: accidentalgmr@resists.org
   area: North Bay
+  form: http://bit.do/NBRes
   
 - agent: Balshor
   email: balshor@resists.org
@@ -25,6 +26,7 @@
 - agent: ISBAR
   email: isbar@resists.org
   area: South Bay
+  form: http://bit.ly/joinisbar
 
 - agent: ICanGetYouAToe
   email: ICanGetYouAToe@resists.org
