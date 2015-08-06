@@ -43,10 +43,6 @@
   email: rukh@resists.org
   area: East Bay
 
-- agent: SwerveSHARK
-  email: SwerveSHARK.ingress@gmail.com
-  area: SF
-
 - agent: tbombadill
   email: tbombadill.ingress@gmail.com
   area: Peninsula, East Bay
@@ -54,3 +50,7 @@
 - agent: Techknow
   email: ingressslug@gmail.com
   area: Santa Cruz
+
+- agent: thekewe
+  email: thekewe@resists.org
+  area: SF
