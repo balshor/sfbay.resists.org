@@ -11,14 +11,17 @@
 - agent: Balshor
   email: balshor@resists.org
   area: East Bay, Website
+  form: http://sfbay.resists.org/eby/
 
 - agent: dang
   email: dang.ingress@gmail.com
   area: East Bay
+  form: http://sfbay.resists.org/eby/
 
 - agent: dorkus
   email: dorkus@resists.org
   area: SF
+  form: http://sfbay.resists.org/sfc
 
 - agent: (Fremont Resistance)
   email: fremont.resistance@gmail.com
@@ -42,15 +45,19 @@
 - agent: rukh
   email: rukh@resists.org
   area: East Bay
+  form: http://sfbay.resists.org/eby/
 
 - agent: tbombadill
   email: tbombadill.ingress@gmail.com
   area: Peninsula, East Bay
+  form: http://sfbay.resists.org/pen/
 
 - agent: Techknow
   email: ingressslug@gmail.com
   area: Santa Cruz
+  form: http://sfbay.resists.org/scz/
 
 - agent: thekewe
   email: thekewe@resists.org
   area: SF
+  form: http://sfbay.resists.org/sfc
