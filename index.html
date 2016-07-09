@@ -30,7 +30,7 @@ header: San Francisco Bay Area Resistance
     Several of our community coordinators have contact email addresses for players who prefer to connect
     via email.
     <ul>{% for contact in site.data.contacts %}
-      <li><a href="mailto:{{ contact.email }}">{{ contact.agent }}</a> ({{ contact.area }}) {% if contact.form != nil %} <a href="{{contact.form}}">Sign-up form</a>{% endif %})</li>{% endfor %}
+      <li><a href="mailto:{{ contact.email }}">{{ contact.agent }}</a> ({{ contact.area }}) {% if contact.form != nil %} <a href="{{contact.form}}">Sign-up form</a>{% endif %}</li>{% endfor %}
     </ul>
   </p>
   <p>
