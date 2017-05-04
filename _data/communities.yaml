@@ -1,6 +1,5 @@
 - name: East Bay (All Levels)
   url: eby/
-  form: eby/
 
 - name: East Contra Costa
   url: ecc/
@@ -17,7 +16,6 @@
 
 - name: Peninsula
   url: pen/
-  form: pen/
 
 - name: San Francisco
   url: sfc/
@@ -26,7 +24,6 @@
 
 - name: Santa Cruz Co.
   url: scz/
-  form: scz/
 
 - name: South Bay
   url: sby/
