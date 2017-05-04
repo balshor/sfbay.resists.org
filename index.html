@@ -34,9 +34,10 @@ header: San Francisco Bay Area Resistance
         {% for contact in contacts %}
         <li>
             <b>{{ contact.area }}</b>
-            {% if contact.email != nil %}<a href="mailto:{{ contact.email }}">{{ contact.agent }}</a>{% else %}{{ contact.agent }}{% endif %}
-            {% if contact.form != nil %} <a href="{{contact.form}}">Sign-up form</a>{% endif %}
-            {% if contact.page != nil %} <a href="{{contact.page}}">More information</a>{% endif %}
+            {% if contact.agent != nil %}({{contact.agent}}){% endif %}
+            {% if contact.email != nil %}<a href="mailto:{{ contact.email }}">(email)</a>{% endif %}
+            {% if contact.form != nil %} <a href="{{contact.form}}">(sign-up form)</a>{% endif %}
+            {% if contact.page != nil %} <a href="{{contact.page}}">(more information)</a>{% endif %}
         </li>
         {% endfor %}
     </ul>
