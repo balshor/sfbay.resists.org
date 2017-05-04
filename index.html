@@ -30,12 +30,18 @@ header: San Francisco Bay Area Resistance
     Several of our community coordinators have contact email addresses for players who prefer to connect
     via email.
     <ul>{% for contact in site.data.contacts %}
-      <li><a href="mailto:{{ contact.email }}">{{ contact.agent }}</a> ({{ contact.area }}) {% if contact.form != nil %} <a href="{{contact.form}}">Sign-up form</a>{% endif %}</li>{% endfor %}
+        <li>
+            {% if contact.email != nil %}<a href="mailto:{{ contact.email }}">{{ contact.agent }}</a>{% else %}{{ contact.agent }}{% endif %}
+            ({{ contact.area }})
+            {% if contact.form != nil %} <a href="{{contact.form}}">Sign-up form</a>{% endif %}
+            {% if contact.page != nil %} <a href="{{contact.page}}">More information</a>{% endif %}
+        </li>
+        {% endfor %}
     </ul>
   </p>
   <p>
-    We also have <a href="https://www.facebook.com/sfeastbay.ingressresistance">a contact account</a> on Facebook
-    if you would prefer to message us that way.
+    The East Bay has <a href="https://www.facebook.com/sfeastbay.ingressresistance">a contact account</a> on Facebook
+    if you would prefer to reach them that way.
   </p>
 
   <h4>About this site</h4>

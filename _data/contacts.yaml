@@ -15,8 +15,8 @@
 
 - agent: dorkus
   email: dorkus@resists.org
-  area: SF
-  form: http://sfbay.resists.org/sfc
+  area: San Francisco
+  page: http://sfbay.resists.org/sfc
 
 - agent: Fremont Resistance
   email: fremont.resistance@gmail.com
@@ -51,8 +51,3 @@
   email: ingress.sc.county.resistance@gmail.com
   area: Santa Cruz
   form: http://sfbay.resists.org/scz/
-
-- agent: thekewe
-  email: thekewe@resists.org
-  area: SF
-  form: http://sfbay.resists.org/sfc
