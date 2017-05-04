@@ -1,5 +1,6 @@
 - name: East Bay (All Levels)
   url: eby/
+  form: eby/
 
 - name: East Contra Costa
   url: ecc/
@@ -9,21 +10,27 @@
 
 - name: North Bay
   url: nby/
+  form: http://bit.do/NBRes
 
 - name: North Peninsula
   url: npn/
 
 - name: Peninsula
   url: pen/
+  form: pen/
 
 - name: San Francisco
   url: sfc/
+  form: sfc/signup/
+  hangout: sfc/welcome-hangout/
 
 - name: Santa Cruz Co.
   url: scz/
+  form: scz/
 
 - name: South Bay
   url: sby/
+  form: http://bit.ly/joinisbar
 
 - name: Tri-City
   url: tricity/
