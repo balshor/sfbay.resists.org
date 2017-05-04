@@ -16,7 +16,7 @@ header: San Francisco Bay Area Resistance
     communities are private, so you'll need to request an invite to join.  The individual communities
     are responsible for managing the invitation and vetting process.
   </p>
-  <ul>{% for community in site.data.communities %}
+  <ul>{% for community in site.data.communities | sort 'name' %}
     <li><a href="{{ community.url }}">{{ community.name }}</a></li>{% endfor %}
   </ul>
 

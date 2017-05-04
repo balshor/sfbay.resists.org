@@ -16,7 +16,7 @@
 - agent: dorkus
   email: dorkus@resists.org
   area: San Francisco
-  page: http://sfbay.resists.org/sfc
+  form: http://sfbay.resists.org/sfc/signup/
 
 - agent: Fremont Resistance
   email: fremont.resistance@gmail.com
