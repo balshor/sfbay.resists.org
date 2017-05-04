@@ -1,29 +1,29 @@
 - name: East Bay (All Levels)
-  url: /eby/
+  url: eby/
 
 - name: East Contra Costa
-  url: /ecc/
+  url: ecc/
 
 - name: Mountain View / GooglePlex
-  url: /mtv/
+  url: mtv/
 
 - name: North Bay
-  url: /nby/
+  url: nby/
 
 - name: North Peninsula
-  url: /npn/
+  url: npn/
 
 - name: Peninsula
-  url: /pen/
+  url: pen/
 
 - name: San Francisco
-  url: /sfc/
+  url: sfc/
 
 - name: Santa Cruz Co.
-  url: /scz/
+  url: scz/
 
 - name: South Bay
-  url: /sby/
+  url: sby/
 
 - name: Tri-City
-  url: /tricity/
+  url: tricity/

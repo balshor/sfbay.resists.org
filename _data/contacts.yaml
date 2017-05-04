@@ -11,12 +11,12 @@
 - agent: dang
   email: dang.ingress@gmail.com
   area: East Bay
-  form: http://sfbay.resists.org/eby/
+  form: eby/
 
 - agent: dorkus
   email: dorkus@resists.org
   area: San Francisco
-  form: http://sfbay.resists.org/sfc/signup/
+  form: sfc/signup/
 
 - agent: Fremont Resistance
   email: fremont.resistance@gmail.com
@@ -40,14 +40,14 @@
 - agent: rukh
   email: rukh@resists.org
   area: East Bay
-  form: http://sfbay.resists.org/eby/
+  form: eby/
 
 - agent: tbombadill
   email: tbombadill.ingress@gmail.com
   area: Peninsula, East Bay
-  form: http://sfbay.resists.org/pen/
+  form: pen/
 
 - agent: Santa Cruz Co Resistance
   email: ingress.sc.county.resistance@gmail.com
   area: Santa Cruz
-  form: http://sfbay.resists.org/scz/
+  form: scz/
