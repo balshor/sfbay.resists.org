@@ -3,5 +3,3 @@ exclude:
 - Gemfile
 - Gemfile.lock
 - CNAME
-
-theme: jekyll-theme-minimal
