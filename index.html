@@ -20,8 +20,8 @@ header: San Francisco Bay Area Resistance
     {% for community in site.data.communities | sort 'name' %}
     <li>
         <a href="{{ community.url }}">{{ community.name }}</a>
-        {% if community.hangout != nil %} <a href="{{ community.hangout }}">(Google Hangout)</a>{% endif %}
-        {% if community.form != nil %} <a href="{{ community.form }}">(sign-up form)</a>{% endif %}
+        {% if community.hangout != nil %} <a target="_blank" href="{{ community.hangout }}">(Google Hangout)</a>{% endif %}
+        {% if community.form != nil %} <a target="_blank" href="{{ community.form }}">(sign-up form)</a>{% endif %}
     </li>
     {% endfor %}
   </ul>
@@ -47,15 +47,15 @@ header: San Francisco Bay Area Resistance
     </ul>
   </p>
   <p>
-    The East Bay has <a href="https://www.facebook.com/sfeastbay.ingressresistance">a contact account</a> on Facebook
+    The East Bay has <a target="_blank" href="https://www.facebook.com/sfeastbay.ingressresistance">a contact account</a> on Facebook
     if you would prefer to reach them that way.
   </p>
 
   <h4>About this site</h4>
   <p>
     This site is run by the Bay Area Resistance player communities and is not officially affiliated  with
-    Ingress or Niantic Labs at Google.
+    Ingress, Niantic Labs, or Google.
   </p>
   <p>
-    Please <a href="https://github.com/balshor/sfbay.resists.org/issues/new">file an issue</a> if you have any questions or feedback about this website.
+    Please <a target="_blank" href="https://github.com/balshor/sfbay.resists.org/issues/new">file an issue</a> if you have any questions or feedback about this website.
   </p>
