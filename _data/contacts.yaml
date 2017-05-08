@@ -1,23 +1,18 @@
 - agent: 380
   email: 380@resists.org
   area: North Bay
-  form: http://bit.do/NBRes
 
 - agent: AccidentalGmr
   email: accidentalgmr@resists.org
   area: North Bay
-  form: http://bit.do/NBRes
 
 - agent: dang
   email: dang.ingress@gmail.com
   area: East Bay
-  form: eby/
 
 - agent: dorkus
   email: dorkus@resists.org
   area: San Francisco
-  form: sfc/signup/
-  hangout: sfc/welcome-hangout/
 
 - agent: Fremont Resistance
   email: fremont.resistance@gmail.com
@@ -26,29 +21,23 @@
 - agent: ISBAR
   email: isbar@resists.org
   area: South Bay
-  form: http://bit.ly/joinisbar
 
 - agent: ICanGetYouAToe
   email: ICanGetYouAToe@resists.org
   area: South Bay
-  form: http://bit.ly/joinisbar
 
 - agent: PhaseBurn
   email: phaseburn@resists.org
   area: South Bay, Peninsula
-  form: http://bit.ly/joinisbar
 
 - agent: rukh
   email: rukh@resists.org
   area: East Bay
-  form: eby/
 
 - agent: tbombadill
   email: tbombadill.ingress@gmail.com
   area: Peninsula, East Bay
-  form: pen/
 
 - agent: Santa Cruz Co Resistance
   email: ingress.sc.county.resistance@gmail.com
   area: Santa Cruz
-  form: scz/
