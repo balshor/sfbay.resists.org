@@ -17,7 +17,7 @@ header: San Francisco Bay Area Resistance
     are responsible for managing the invitation and vetting process.
   </p>
   <ul>
-    {% for community in site.data.communities | sort 'name' %}
+    {% for community in site.data.communities | sort: 'name' %}
     <li>
         <a href="{{ community.url }}">{{ community.name }}</a>
         {% if community.hangout != nil %} <a target="_blank" href="{{ community.hangout }}">(Google Hangout)</a>{% endif %}
