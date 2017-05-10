@@ -7,7 +7,7 @@ header: San Francisco Bay Area Resistance
     Welcome to the Resistance!
   </h4>
   <p>
-    If you're new to the game, please check out these <a href="/help/">links for new players.</a>
+    If you're new to the game, please check out these <a href="help/">links for new players.</a>
   </p>
 
   <h4>List of SF Bay Area Resistance Communities</h4>
@@ -16,8 +16,14 @@ header: San Francisco Bay Area Resistance
     communities are private, so you'll need to request an invite to join.  The individual communities
     are responsible for managing the invitation and vetting process.
   </p>
-  <ul>{% for community in site.data.communities %}
-    <li><a href="{{ community.url }}">{{ community.name }}</a></li>{% endfor %}
+  <ul>
+    {% for community in site.data.communities | sort: 'name' %}
+    <li>
+        <a href="{{ community.url }}">{{ community.name }}</a>
+        {% if community.hangout != nil %} <a target="_blank" href="{{ community.hangout }}">(Google Hangout)</a>{% endif %}
+        {% if community.form != nil %} <a target="_blank" href="{{ community.form }}">(sign-up form)</a>{% endif %}
+    </li>
+    {% endfor %}
   </ul>
 
   <h4>Other Methods of Contact</h4>
@@ -29,20 +35,27 @@ header: San Francisco Bay Area Resistance
   <p>
     Several of our community coordinators have contact email addresses for players who prefer to connect
     via email.
-    <ul>{% for contact in site.data.contacts %}
-      <li><a href="mailto:{{ contact.email }}">{{ contact.agent }}</a> ({{ contact.area }}) {% if contact.form != nil %} <a href="{{contact.form}}">Sign-up form</a>{% endif %}</li>{% endfor %}
+    <ul>
+        {% assign contacts = site.data.contacts | sort: 'area' %}
+        {% for contact in contacts %}
+        <li>
+            <b>{{ contact.area }}</b>
+            {% if contact.agent != nil %}({{contact.agent}}){% endif %}
+            {% if contact.email != nil %}<a href="mailto:{{ contact.email }}">(email)</a>{% endif %}
+        </li>
+        {% endfor %}
     </ul>
   </p>
   <p>
-    We also have <a href="https://www.facebook.com/sfeastbay.ingressresistance">a contact account</a> on Facebook
-    if you would prefer to message us that way.
+    The East Bay has <a target="_blank" href="https://www.facebook.com/sfeastbay.ingressresistance">a contact account</a> on Facebook
+    if you would prefer to reach them that way.
   </p>
 
   <h4>About this site</h4>
   <p>
     This site is run by the Bay Area Resistance player communities and is not officially affiliated  with
-    Ingress or Niantic Labs at Google.
+    Ingress, Niantic Labs, or Google.
   </p>
   <p>
-    Please <a href="https://github.com/balshor/sfbay.resists.org/issues/new">file an issue</a> if you have any questions or feedback about this website.
+    Please <a target="_blank" href="https://github.com/balshor/sfbay.resists.org/issues/new">file an issue</a> if you have any questions or feedback about this website.
   </p>
